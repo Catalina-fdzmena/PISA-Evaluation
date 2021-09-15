@@ -1,0 +1,5 @@
+Presione 1 para practicar con problemas de teorema de pitagoras
+Presione 2 para practicar con problemas de algebra lineal
+Presione 3 para practicar con problemas de volumenes
+Presione 4 para practicar con problemas de trigonometria
+Presione 5 para terminar el programa: 
